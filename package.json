@@ -1,6 +1,6 @@
 {
   "name": "lycwed-cordova-plugin-admob-free",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Cordova AdMob Plugin for Google AdMob",
   "cordova": {
     "id": "lycwed-cordova-plugin-admob-free",
