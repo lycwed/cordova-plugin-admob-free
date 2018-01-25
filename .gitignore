@@ -5,8 +5,8 @@
 *.iml
 *.log
 *.lock
+tests/
 node_modules/
 coverage/
-www/
 gh-pages/
 package-lock.json
