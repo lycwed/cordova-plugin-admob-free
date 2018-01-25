@@ -92,11 +92,4 @@
     </platform>
 
     <dependency id="cordova-promise-polyfill" version="~0.0.2" />
-
-    <!-- Prevents compilation error: https://developer.android.com/studio/build/multidex.html -->
-    <!-- when add additional mediation plugins -->
-    <dependency id="cordova-plugin-multidex" />
-
-    <!-- Prevents compilation failures when using pod's id with additional mediations plugins -->
-    <dependency id="cordova-plugin-cocoapod-support" />
 </plugin>
