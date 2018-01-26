@@ -6,6 +6,7 @@
 *.log
 *.lock
 tests/
+www/
 node_modules/
 coverage/
 gh-pages/
